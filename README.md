@@ -1,12 +1,12 @@
-deldichoalhecho
-===============
+deldichoalhecho for UYCheck
+===========================
 
 Deldichoalhecho is a promise tracker application.
 
 This is intended to be a django-app and also a site by itself that allows citizens to create promises made by an authority and keep track of their fulfillment, this project is inspired by deldichoalhecho.cl.
 
-[![Build Status](https://travis-ci.org/ciudadanointeligente/check-it.svg?branch=master)](https://travis-ci.org/ciudadanointeligente/check-it)
-[![Coverage Status](https://coveralls.io/repos/ciudadanointeligente/check-it/badge.png?branch=master)](https://coveralls.io/r/ciudadanointeligente/check-it?branch=master)
+[![Build Status](https://travis-ci.org/ciudadanointeligente/deldichoalhecho-uycheck.svg?branch=master)](https://travis-ci.org/ciudadanointeligente/deldichoalhecho-uycheck)
+[![Coverage Status](https://coveralls.io/repos/ciudadanointeligente/deldichoalhecho-uycheck/badge.png?branch=master)](https://coveralls.io/r/ciudadanointeligente/deldichoalhecho-uycheck?branch=master)
 
 ## Installation
 
@@ -23,14 +23,14 @@ The installation requires certain software to be installed in your machine
 * Clone the project
 
 ```
-git clone https://github.com/ciudadanointeligente/deldichoalhecho.git
+git clone https://github.com/ciudadanointeligente/deldichoalhecho-uycheck.git
 ```
 
 * Create a virtualenv and enter the directory
 
 ```
-mkvirtualenv deldichoalhecho
-cd deldichoalhecho
+mkvirtualenv deldichoalhecho-uycheck
+cd deldichoalhecho-uycheck
 ```
 
 * Install the project requirements
