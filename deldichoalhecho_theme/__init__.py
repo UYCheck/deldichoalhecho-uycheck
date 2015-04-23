@@ -8,7 +8,8 @@ PROMISES_THEMES = (
     'edicion2015',
 	'incendiovalpo',
 	'terremotonorte',
-	'test'
+	'test',
+	'uycheck'
 	)
 
 for theme in PROMISES_THEMES:
