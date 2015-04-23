@@ -51,6 +51,12 @@ python manage.py syncdb
 python manage.py migrate
 ```
 
+* Managing static files
+
+```
+python manage.py collectstatic
+```
+
 * Run server
 
 ```
