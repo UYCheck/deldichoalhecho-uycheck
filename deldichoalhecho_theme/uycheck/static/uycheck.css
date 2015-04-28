@@ -1,7 +1,7 @@
 /*JUMBOTRON*/
 
 .hero-space {
-  background: url(img/header-sides.png) repeat-x;
+  background: url(img/uy-header-sides.png) repeat-x;
 }
 
 .popover-content {
@@ -24,14 +24,14 @@
 }
 
 .ribbon:before {
-  content: url(img/ribbon-before.png);
+  content: url(img/uy-ribbon-before.png);
   position: absolute;
   left: -43px;
   bottom: -23px;
 }
 
 .ribbon:after {
-  content: url(img/ribbon-after.png);
+  content: url(img/uy-ribbon-after.png);
   position: absolute;
   right: -43px;
   bottom: -23px;
@@ -51,7 +51,7 @@
 @media (max-width: 1200px) {
 
   .hero-space {
-    background-image: url(img/header.png);
+    background-image: url(img/uy-header.png);
   }
 
   .hero-space h2 {
@@ -73,7 +73,7 @@
 @media (max-width: 1000px) {
 
   .hero-space {
-    background-image: url(img/header-m.png);
+    background-image: url(img/uy-header-m.png);
   }
 
   .ribbon {
@@ -84,7 +84,7 @@
 
 @media (max-width: 800px) {
   .hero-space {
-    background-image: url(img/header-s.png);
+    background-image: url(img/uy-header-s.png);
   }
 
   .ribbon {
@@ -95,7 +95,7 @@
 @media (max-width: 400px) {
 
   .hero-space {
-    background-image: url(img/header-xs.png);
+    background-image: url(img/uy-header-xs.png);
   }
 
   .summary-progress p {
