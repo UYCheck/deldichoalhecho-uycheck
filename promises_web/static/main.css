@@ -176,13 +176,13 @@ h4 {
 }
 
 .read-more p.text-center.category-expander {
-  background-color: #750661;
+  background-color: #b0650b;
   margin: 0px -15px -15px;
   color: #fff;
 }
 
 .read-less p.text-center.category-expander {
-  background-color: #750661;
+  background-color: #b0650b;
   color: #fff;
   margin-bottom: 0;
 }
